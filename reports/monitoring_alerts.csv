@@ -1,0 +1,6 @@
+week_start,severity,indicator,value,threshold,message
+2017-12-05,warning,MAE,10.456486665428573,10.15870767486806,Erro semanal acima do limite histórico.
+2017-12-05,warning,bias_pct,22.15729109010134,10.0,Viés absoluto acima de 10%.
+2017-12-12,warning,bias_pct,20.809477570243786,10.0,Viés absoluto acima de 10%.
+2017-12-19,warning,bias_pct,20.106983400964886,10.0,Viés absoluto acima de 10%.
+2017-12-26,warning,bias_pct,18.127654529374233,10.0,Viés absoluto acima de 10%.

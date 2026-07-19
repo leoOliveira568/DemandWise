@@ -1,0 +1,4 @@
+model_key,model,training_rows,training_seconds
+random_forest,Random Forest,300000,70.75354009999865
+gradient_boosting,Gradient Boosting,300000,135.67216109999936
+hist_gradient_boosting,HistGradient Boosting,300000,13.063233400000172

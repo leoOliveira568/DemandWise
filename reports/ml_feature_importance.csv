@@ -1,0 +1,20 @@
+model,feature,importance
+Random Forest,lag_7,0.5570772590512566
+Random Forest,rolling_mean_7,0.17451051970539053
+Random Forest,rolling_mean_14,0.14271228689529003
+Random Forest,lag_14,0.05196140595175085
+Random Forest,rolling_mean_28,0.02119227526214745
+Random Forest,day_of_week,0.017716940164858138
+Random Forest,lag_28,0.007745914046258404
+Random Forest,is_weekend,0.0039850576394900895
+Random Forest,week_of_year,0.003961123080687325
+Random Forest,day,0.003758933289366968
+Random Forest,sales_by_month_mean,0.003469115149065126
+Random Forest,rolling_std_7,0.002544602969381407
+Random Forest,sales_by_item_mean,0.0025418385830561835
+Random Forest,sales_by_store_mean,0.00220195206131269
+Random Forest,month,0.0018524500160946099
+Random Forest,item,0.00149016503819064
+Random Forest,store,0.0008754644836378168
+Random Forest,year,0.00023381855235660946
+Random Forest,quarter,0.0001688780604085249

@@ -1,0 +1,10 @@
+{
+  "candidate": "responsive",
+  "params": {
+    "n_estimators": 70,
+    "max_depth": 16,
+    "min_samples_leaf": 5,
+    "max_features": 0.7
+  },
+  "max_training_rows": 300000
+}
